@@ -33,7 +33,7 @@ ax^2 + bx + c = 0
 La fórmula general para resolverla es:
 
 
-x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+
 
 
 - Si el **discriminante** \( b^2 - 4ac \) es mayor que 0 → 2 soluciones reales.
