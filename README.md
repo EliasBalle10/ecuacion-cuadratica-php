@@ -33,6 +33,7 @@ ax^2 + bx + c = 0
 La fórmula general para resolverla es:
 
 
+![image](https://github.com/user-attachments/assets/563922bc-6837-44b1-9035-bdf612f2081e)
 
 
 
