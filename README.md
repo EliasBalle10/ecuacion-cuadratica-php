@@ -1,4 +1,4 @@
-# 📐 Calculadora de Ecuaciones Cuadráticas en PHP
+#  Calculadora de Ecuaciones Cuadráticas en PHP
 
 Este proyecto resuelve ecuaciones cuadráticas de la forma:
 
@@ -10,7 +10,7 @@ Usa **PHP puro orientado a objetos**, sin base de datos. Incluye una interfaz we
 
 ---
 
-## 🚀 Cómo usarlo
+## Cómo usarlo
 
 1. Clona o descarga el repositorio.
 2. Copia la carpeta en `htdocs` (si estás usando XAMPP).
@@ -22,7 +22,7 @@ http://localhost/ecuacion-cuadratica/
 
 ---
 
-## 🧠 Teoría básica
+##  Teoría básica
 
 Una ecuación cuadrática es de la forma:
 
@@ -42,7 +42,7 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 
 ---
 
-## 💻 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - PHP (POO)
 - HTML y CSS
@@ -50,8 +50,7 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 
 ---
 
-## ✨ Autor
+## Autor
 
-**Hecho con cariño por ELBALLE ❤️**  
+**Hecho por ELBALLE **  
 _Proyecto para práctica de programación orientada a objetos en PHP._
-
